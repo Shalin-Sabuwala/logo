@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/Shalin-Sabuwala/logo/main/assets/email/logo.png
+https://raw.githubusercontent.com/Shalin-Sabuwala/logo/main/assets/email/internet.png
+https://raw.githubusercontent.com/Shalin-Sabuwala/logo/main/assets/email/linkedin.png
+https://raw.githubusercontent.com/Shalin-Sabuwala/logo/main/assets/email/spacer.png
+https://raw.githubusercontent.com/Shalin-Sabuwala/logo/main/assets/email/whatsapp.png
